@@ -37,3 +37,18 @@ Specify the downloaded features and the types of RNN model you would like to use
 th main.lua
 ```
 
+---
+#### Citation
+Please cite our paper, if you think the codes are useful.
+
+[TS-LSTM and Temporal-Inception: Exploiting Spatiotemporal Dynamics for Activity Recognition](http://arxiv.org/abs/1703.10667)
+
+```
+@article{ma2017tslstm,
+  title={TS-LSTM and Temporal-Inception: Exploiting Spatiotemporal Dynamics for Activity Recognition},
+  author={Ma, Chih-Yao and Chen, Min-Hung and Kira, Zsolt and AlRegib, Ghassan},
+  journal={arXiv preprint arXiv:1703.10667},
+  year={2017}
+}
+```
+
